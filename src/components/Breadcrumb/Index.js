@@ -8,7 +8,7 @@ const BreadCrumb = ({movieTitle}) => (
     <Wrapper>
         <Content>
             <Link to='/'>
-                <span>Home</span>
+                <span>Home Page</span>
             </Link>
             <span>|</span>
             <span>{movieTitle}</span>
